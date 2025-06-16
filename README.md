@@ -3,7 +3,7 @@
 <p align="center">shit-coding in JS, Java, Python</p>
 
 <p align="center">
-  bugs? <img src="https://cdn.7tv.app/emote/01FGSAH6QR00021TQRJX35NQPA/1x.avif" alt="bug" height="32">
+  bugs? <img src="https://cdn.7tv.app/emote/01FGSAH6QR00021TQRJX35NQPA/1x.avif" alt="bug" height="24" style="vertical-align: middle;">
 </p>
 
 <h2 align="center">MY AWESOME PROJECTS</h2>
