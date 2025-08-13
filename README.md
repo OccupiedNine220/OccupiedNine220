@@ -12,7 +12,7 @@
   <li>KayfMess (written at 3:00 am on energy drinks) (its sucks)</li>
   <li>MCAutoRestart - AutoRestart for Bukkit</li>
   <li>MODERATOR-MALEVICHA - discord moderation bot (its sucks)</li>
-  <li>In develop - [DSSS - Discord Server Security System](https://github.com/qndk-dev/DSSS/)</li>
+  <li>In develop - DSSS - Discord Server Security System - https://github.com/qndk-dev/DSSS/</li>
   <li>and other projects that don't exist yet but will someday appear</li>
 </ul>
 
