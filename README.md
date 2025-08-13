@@ -23,3 +23,6 @@
   <li>Modrinth - <a href="https://modrinth.com/user/occupiednine220">https://modrinth.com/user/occupiednine220</a></li>
   <li>Steam - <a href="https://steamcommunity.com/profiles/76561199670148148/">https://steamcommunity.com/profiles/76561199670148148/</a></li>
 </ul>
+
+<h3>stats (very cool)</h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=OccupiedNine220&show_icons=true&theme=dark" />
